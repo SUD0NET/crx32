@@ -35,7 +35,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpgka1f92z.js
+// include: /tmp/tmpyudy1uaf.js
 
   if (!Module['expectedDataFileDownloads']) {
     Module['expectedDataFileDownloads'] = 0;
@@ -212,11 +212,11 @@ Module['FS_createPath']("/", "bin", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/bin/boot.bin", "start": 0, "end": 107884}], "remote_package_size": 107884});
+    loadPackage({"files": [{"filename": "/bin/boot.bin", "start": 0, "end": 72420}], "remote_package_size": 72420});
 
   })();
 
-// end include: /tmp/tmpgka1f92z.js
+// end include: /tmp/tmpyudy1uaf.js
 
 
 // Sometimes an existing Module object exists with properties
